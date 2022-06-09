@@ -3,7 +3,7 @@
 It is my hope that I can use this page to display my progress and connect with others as I continue to learn more.
 
 👨🏼‍💻 Enjoying to practice current skills and learn new ones!  
-🧠 Skills Include: Python, Java, HTML, CSS, SQL.   
+🧠 Skills Include: Python, Java, C++, HTML, CSS, SQL.   
 💜 Loving my wife and kids, creating new solutions, and exploring the next thing! 
 
 
