@@ -1,21 +1,40 @@
 ### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="600" height="300"/>
+</div>
+
 #### My name is Richard Elphinstone. I am currently a student at Southern New Hampshire University learning about Software Development towards a Bachelor's Degree.
-It is my hope that I can use this page to display my progress and connect with others as I continue to learn more.
+#### It is my hope that I can use this page to display my progress and connect with others as I continue to learn more.
 
-👨🏼‍💻 Enjoying to practice current skills and learn new ones!  
-🧠 Technologies I am working with: Python, Java, JavaScript, C++, HTML, CSS, SQL.   
-💜 Loving my wife and kids, creating new solutions, and exploring the next thing! 
+ 
+:hammer_and_wrench: Technologies and Tools I am working with:  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" **alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>
+</div>
+
+#### If you would like to know a little more about me:
+#### Check out my [Portfolio Site][portfolio]
+#### Or reach me on 
+<a href="https://www.linkedin.com/in/richard-elphinstone">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+  
 
 
-👔 [linkedin][linkedin]
-[portfolio][portfolio]
+[portfolio]: https://elphinstonerf.github.io/Portfolio/
 
-
-[linkedin]: https://www.linkedin.com/in/richard-elphinstone-3a2786175
-[portfolio]: 
-
-
+### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elphinstonerf)](https://github.com/elphinstonerf/github-readme-stats)
+
 
 
 
