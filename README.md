@@ -1,6 +1,8 @@
-### Hi there 👋
-<div align="center">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="600" height="300"/>
+
+### Hi there 👋  
+
+<div align="left">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="300" height="150"/>  
 </div>
 
 #### My name is Richard Elphinstone. I am currently a student at Southern New Hampshire University learning about Software Development towards a Bachelor's Degree.
